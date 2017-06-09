@@ -10,7 +10,7 @@ def palindrone
   when 2
     puts "Goodbye."
   else
-    "Incorrect input try again."
+    puts "Incorrect input try again."
     palindrone
   end
 end
